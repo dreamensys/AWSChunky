@@ -1,0 +1,16 @@
+C:\Users\angel.soto\source\repos\AWSChunky\Chunky.Data.Access\bin\Debug\netcoreapp2.2\AWSChunky.Data.Access.deps.json
+C:\Users\angel.soto\source\repos\AWSChunky\Chunky.Data.Access\bin\Debug\netcoreapp2.2\AWSChunky.Data.Access.dll
+C:\Users\angel.soto\source\repos\AWSChunky\Chunky.Data.Access\bin\Debug\netcoreapp2.2\AWSChunky.Data.Access.pdb
+C:\Users\angel.soto\source\repos\AWSChunky\Chunky.Data.Access\obj\Debug\netcoreapp2.2\AWSChunky.Data.Access.csproj.CoreCompileInputs.cache
+C:\Users\angel.soto\source\repos\AWSChunky\Chunky.Data.Access\obj\Debug\netcoreapp2.2\AWSChunky.Data.Access.AssemblyInfoInputs.cache
+C:\Users\angel.soto\source\repos\AWSChunky\Chunky.Data.Access\obj\Debug\netcoreapp2.2\AWSChunky.Data.Access.AssemblyInfo.cs
+C:\Users\angel.soto\source\repos\AWSChunky\Chunky.Data.Access\obj\Debug\netcoreapp2.2\AWSChunky.Data.Access.dll
+C:\Users\angel.soto\source\repos\AWSChunky\Chunky.Data.Access\obj\Debug\netcoreapp2.2\AWSChunky.Data.Access.pdb
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Access\bin\Debug\netcoreapp2.2\AWSChunky.Data.Access.deps.json
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Access\bin\Debug\netcoreapp2.2\AWSChunky.Data.Access.dll
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Access\bin\Debug\netcoreapp2.2\AWSChunky.Data.Access.pdb
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Access\obj\Debug\netcoreapp2.2\AWSChunky.Data.Access.csproj.CoreCompileInputs.cache
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Access\obj\Debug\netcoreapp2.2\AWSChunky.Data.Access.AssemblyInfoInputs.cache
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Access\obj\Debug\netcoreapp2.2\AWSChunky.Data.Access.AssemblyInfo.cs
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Access\obj\Debug\netcoreapp2.2\AWSChunky.Data.Access.dll
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Access\obj\Debug\netcoreapp2.2\AWSChunky.Data.Access.pdb

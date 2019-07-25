@@ -1,0 +1,12 @@
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Queries\bin\Debug\netcoreapp2.2\AWSChunky.Data.Queries.deps.json
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Queries\bin\Debug\netcoreapp2.2\AWSChunky.Data.Queries.dll
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Queries\bin\Debug\netcoreapp2.2\AWSChunky.Data.Queries.pdb
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Queries\bin\Debug\netcoreapp2.2\AWSChunky.Data.Models.dll
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Queries\bin\Debug\netcoreapp2.2\AWSChunky.Data.Models.pdb
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Queries\obj\Debug\netcoreapp2.2\AWSChunky.Data.Queries.csproj.CoreCompileInputs.cache
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Queries\obj\Debug\netcoreapp2.2\AWSChunky.Data.Queries.AssemblyInfoInputs.cache
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Queries\obj\Debug\netcoreapp2.2\AWSChunky.Data.Queries.AssemblyInfo.cs
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Queries\obj\Debug\netcoreapp2.2\AWSChunky.Data.Queries.csproj.CopyComplete
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Queries\obj\Debug\netcoreapp2.2\AWSChunky.Data.Queries.dll
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Queries\obj\Debug\netcoreapp2.2\AWSChunky.Data.Queries.pdb
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Data.Queries\obj\Debug\netcoreapp2.2\AWSChunky.Data.Queries.csprojAssemblyReference.cache

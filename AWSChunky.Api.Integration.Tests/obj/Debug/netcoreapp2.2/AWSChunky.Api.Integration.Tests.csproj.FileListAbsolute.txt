@@ -1,0 +1,13 @@
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Api.Integration.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Api.Integration.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Api.Integration.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Api.Integration.Tests\bin\Debug\netcoreapp2.2\AWSChunky.Api.Integration.Tests.deps.json
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Api.Integration.Tests\bin\Debug\netcoreapp2.2\AWSChunky.Api.Integration.Tests.runtimeconfig.json
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Api.Integration.Tests\bin\Debug\netcoreapp2.2\AWSChunky.Api.Integration.Tests.runtimeconfig.dev.json
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Api.Integration.Tests\bin\Debug\netcoreapp2.2\AWSChunky.Api.Integration.Tests.dll
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Api.Integration.Tests\bin\Debug\netcoreapp2.2\AWSChunky.Api.Integration.Tests.pdb
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Api.Integration.Tests\obj\Debug\netcoreapp2.2\AWSChunky.Api.Integration.Tests.csproj.CoreCompileInputs.cache
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Api.Integration.Tests\obj\Debug\netcoreapp2.2\AWSChunky.Api.Integration.Tests.AssemblyInfoInputs.cache
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Api.Integration.Tests\obj\Debug\netcoreapp2.2\AWSChunky.Api.Integration.Tests.AssemblyInfo.cs
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Api.Integration.Tests\obj\Debug\netcoreapp2.2\AWSChunky.Api.Integration.Tests.dll
+C:\Users\angel.soto\source\repos\AWSChunky\AWSChunky.Api.Integration.Tests\obj\Debug\netcoreapp2.2\AWSChunky.Api.Integration.Tests.pdb
